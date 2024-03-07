@@ -1,5 +1,5 @@
-# Some Basic Uses of 'if-else' statements
-# ========================================================================= #
+# Some Basic Uses of 'if-else' statements :-
+# ========================================================================================== #
 
 # Check if x is < or > some digit
 x = 10 
@@ -111,7 +111,7 @@ else:
 
 # ===================================== #
     
-# f string uses
+# Uses of 'f' string 
 name = 'King'
 if not name:
     print("No name.")
